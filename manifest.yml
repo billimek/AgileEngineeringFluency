@@ -1,0 +1,4 @@
+applications:
+- name: roadmap
+  memory: 64M
+  buildpack: staticfile_buildpack
